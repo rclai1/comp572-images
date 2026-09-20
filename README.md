@@ -1,2 +1,2 @@
 # comp572-images
-Images used for COMP 572
+A repository to store images used for COMP 572.
